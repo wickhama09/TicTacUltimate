@@ -50,6 +50,9 @@ about event-driven programming and interface design. I pushed myself to add seve
 program. This was significant in my learning process because it opened
 my eyes to the sheer complexity that can be involved with programming even the smallest things.
 
+Looking back at my old code I realize the importance of taking the time to properly document and comment my code. It seems I got carried
+away with this one and didn't leave myself very many notes.
+
 
 
 
